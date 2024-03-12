@@ -1,10 +1,11 @@
 ### Hi there, I'm Alireza Akbari 👋
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezaakb) 
+
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaakb&layout=compact&theme=dark)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alirezaakb) 
 
 <!--
 **alirezaakb/alirezaakb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
