@@ -1,4 +1,4 @@
-## Hi 👋, I'm Alireza Akbari 
+<h1 align="center">Hi 👋, I'm Alireza Akbari </h1>
 
 ### 🛠 &nbsp;Languages and Tools:
 
