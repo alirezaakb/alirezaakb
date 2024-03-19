@@ -1,4 +1,4 @@
-### Hi there, I'm Alireza Akbari 👋
+## Hi 👋, I'm Alireza Akbari 
 
 ### 🛠 &nbsp;Languages and Tools:
 
